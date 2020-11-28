@@ -1,4 +1,4 @@
-package java;
+package codility.java;
 
 /**
  * 100 points
