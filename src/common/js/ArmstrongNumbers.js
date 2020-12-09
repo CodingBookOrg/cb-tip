@@ -12,7 +12,7 @@ function isArmstrong(number) {
 function getNthArmstrongNumber(n) {
     let count = 0;
     for(let i = 1; i <= Number.MAX_VALUE; i++) {
-        if(isArmstrong(pari)) {
+        if(isArmstrong(i.toString())) {
             count++;
 
             if(count == n) {
@@ -24,5 +24,5 @@ function getNthArmstrongNumber(n) {
 
 console.log(isArmstrong('153'))
 console.log(isArmstrong('120'))
-console.log(isArmstrong(12))
+console.log(getNthArmstrongNumber(12))
 
