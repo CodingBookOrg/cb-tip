@@ -1,6 +1,4 @@
-package simple;
-
-import java.util.stream.IntStream;
+package common.java;
 
 /**
  * https://www.geeksforgeeks.org/program-for-armstrong-numbers/
