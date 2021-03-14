@@ -1,3 +1,8 @@
+package hackerrank.java.HashMap;
+
+import java.util.HashMap;
+import java.util.Map;
+
 public class TwoStrings {
     public static String twoStrings(String s1, String s2) {
 

@@ -1,4 +1,4 @@
-﻿import java.io.*;
+import java.io.*;
 import java.math.*;
 import java.security.*;
 import java.text.*;
@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Q2_Arrays_left_rotation {
 
     // Complete the rotLeft function below.
     static int[] rotLeft(int[] a, int d) {

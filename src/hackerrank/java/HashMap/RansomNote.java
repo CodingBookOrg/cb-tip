@@ -1,5 +1,11 @@
+package hackerrank.java.HashMap;
+
+import java.util.HashMap;
+import java.util.Map;
+
 public class RansomNote {
     public static void checkMagazine(String[] magazine, String[] note) {
+
 
         Map<String, Integer> countWords = new HashMap<>();
 
